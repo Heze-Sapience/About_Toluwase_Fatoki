@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning PBPK as well as Deep Learning for drug discovery.
 - 💞️ I’m looking to collaborate on study that integrate Applied Bioinformatics with PBPK modelling.
 - 📫 How to reach me by email: hezekiahfatoki@gmail.com.
--    www.linkedin.com/in/hezekiahfatoki
-     www.researchgate.net/profile/Toluwase-Fatoki
+- LinkedIn: www.linkedin.com/in/hezekiahfatoki
+- ResearchGate: www.researchgate.net/profile/Toluwase-Fatoki
 
 <!---
 Heze-Sapience/Heze-Sapience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
