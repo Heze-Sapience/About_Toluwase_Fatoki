@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a researcher with a strong foundation in **biochemistr
 - ADMET and PBPK modeling  
 - In silico pharmacology and toxicology  
 - Computational exploration of biochemical pathways  
-- Application of machine learning in structural biology  
+- Application of machine learning in structural biology and drug discovery  
 
 ---
 
