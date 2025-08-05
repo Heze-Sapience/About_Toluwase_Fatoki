@@ -40,7 +40,7 @@ You can find a list of my peer-reviewed publications [here](https://scholar.goog
 
 Example highlights:
 - [Effect of pH on HMGCoA Reductase and β-sitosterol](https://doi.org/10.1080/07391102.2022.2067240)
-- [In silico exploration of metabolically active peptides for ALS](https://doi.org/10.3390/ijms24065828) 
+- [In Silico Exploration of Metabolically Active Peptides for ALS](https://doi.org/10.3390/ijms24065828) 
 - [PfATP4 Inhibitors – ADMET and Mutation Study](https://doi.org/10.1080/07391102.2025.2516757)  
 - [In Silico PBPK Modeling of Oritavancin](https://doi.org/10.1186/s40360-024-00804-z)
 
@@ -52,14 +52,7 @@ Example highlights:
 |--------|-------------|-------|
 | **Computational and Biophysical Investigation of Antimicrobial Peptide D-GL13K and L-GL13K** | Investigating the mechanism of action of this peptide in Gram -ve and +ve bacterial model membranes. | Linux OS, Python, GROMACS, MDTraj, HPC- Compute Canada |
 
----
-
-## Let's Collaborate
-
-I'm always open to collaboration on:
-- Simulation-guided drug design  
-- ADMET profiling pipelines  
-- Translating biochemical insights into ML models  
+---  
 
 ## Contact Me
 
