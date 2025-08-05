@@ -1,6 +1,6 @@
-# Toluwase H. Fatoki – Computational Biochemistry Researcher
+# Toluwase H. Fatoki
 
-Welcome to my GitHub! I'm a researcher with a strong foundation in **biochemistry and pharmacology**, enhanced by computational tools and methods. My focus is on applying **molecular modeling**, **dynamics simulation**, and **ADMET predictions** to solve biologically meaningful problems, particularly in **drug discovery and target validation**.
+Welcome to my GitHub! I'm a researcher with a strong foundation in **biochemistry, pharmacology and chemical biology**, enhanced by computational tools and methods. My focus is on applying **molecular modeling**, **dynamics simulation**, and **ADMET predictions** to solve biologically meaningful problems, particularly in **drug discovery and target validation**.
 
 ---
 
@@ -61,11 +61,11 @@ I'm always open to collaboration on:
 - ADMET profiling pipelines  
 - Translating biochemical insights into ML models  
 
-**Contact me**:  
+## Contact Me
 
-[Email:] _(hezekiahfatoki@gmail.com).
-[LinkedIn:] _(https://www.linkedin.com/in/hezekiahfatoki).
-[ResearchGate:] _(https://www.researchgate.net/profile/Toluwase-Fatoki).
+- **Email:** [hezekiahfatoki@gmail.com](mailto:hezekiahfatoki@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/hezekiahfatoki](https://www.linkedin.com/in/hezekiahfatoki)  
+- **ResearchGate:** [Toluwase Fatoki](https://www.researchgate.net/profile/Toluwase-Fatoki)
 
 ---
 
