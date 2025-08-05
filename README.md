@@ -63,7 +63,9 @@ I'm always open to collaboration on:
 
 📬 **Contact me**:  
 [Email] | [LinkedIn] | [ResearchGate]  
-_(hezekiahfatoki@gmail.com)_(https://www.linkedin.com/in/hezekiahfatoki/)_(https://www.researchgate.net/profile/Toluwase-Fatoki)_
+_(hezekiahfatoki@gmail.com)_
+_(https://www.linkedin.com/in/hezekiahfatoki/)_
+_(https://www.researchgate.net/profile/Toluwase-Fatoki)_
 
 ---
 
