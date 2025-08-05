@@ -18,9 +18,9 @@ Welcome to my GitHub! I'm a researcher with a strong foundation in **biochemistr
 ## Tools & Technologies
 
 - **Languages**: Python (basic to intermediate), Bash  
-- **Libraries/Frameworks**: MDAnalysis, matplotlib, NumPy, Pandas, scikit-learn  
-- **Software**: Maestro (Schrödinger), AutoDock, GROMACS, PyMOL, ChimeraX  
-- **Other**: PBPK modeling (PK-Sim), cheminformatics, structure cleaning and preparation tools
+- **Libraries/Frameworks**: MDTraj, Matplotlib, NumPy, Pandas, scikit-learn, PyTorch, Deeptime  
+- **Software**: Maestro (Schrödinger), AutoDock, GROMACS, PyMOL, VMD, ACD/ChemSketch, DataWarrior  
+- **Other**: PBPK modeling (OSP Suite, Teoreler), cheminformatics , functional genomics (edgeR, Galaxy and webservers)
 
 ---
 
@@ -50,7 +50,7 @@ Example highlights:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| **Computational and Biophysical investigation of Antimicrobial peptide GL13K** | Investigating the mechanism of action of this peptide in Gram -ve and +ve bacterial model membranes. | Linux OS, Python, GROMACS, MDTraj, HPC- Compute Canada |
+| **Computational and Biophysical Investigation of Antimicrobial Peptide D-GL13K and L-GL13K** | Investigating the mechanism of action of this peptide in Gram -ve and +ve bacterial model membranes. | Linux OS, Python, GROMACS, MDTraj, HPC- Compute Canada |
 
 ---
 
