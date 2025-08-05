@@ -62,10 +62,9 @@ I'm always open to collaboration on:
 - Translating biochemical insights into ML models  
 
 **Contact me**:  
-[Email] | [LinkedIn] | [ResearchGate]  
-_(hezekiahfatoki@gmail.com)_
-_(https://www.linkedin.com/in/hezekiahfatoki/)_
-_(https://www.researchgate.net/profile/Toluwase-Fatoki)_
+[Email] _(hezekiahfatoki@gmail.com)_
+[LinkedIn] _(https://www.linkedin.com/in/hezekiahfatoki/)_
+[ResearchGate] _(https://www.researchgate.net/profile/Toluwase-Fatoki)_
 
 ---
 
