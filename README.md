@@ -1,10 +1,10 @@
-# 👩🏽‍🔬 Toluwase H. Fatoki – Computational Biochemistry Researcher
+# Toluwase H. Fatoki – Computational Biochemistry Researcher
 
 Welcome to my GitHub! I'm a researcher with a strong foundation in **biochemistry and pharmacology**, enhanced by computational tools and methods. My focus is on applying **molecular modeling**, **dynamics simulation**, and **ADMET predictions** to solve biologically meaningful problems, particularly in **drug discovery and target validation**.
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Molecular dynamics and structure-based drug design  
 - Target-ligand interaction analysis  
@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a researcher with a strong foundation in **biochemistr
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Languages**: Python (basic to intermediate), Bash  
 - **Libraries/Frameworks**: MDAnalysis, matplotlib, NumPy, Pandas, scikit-learn  
@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a researcher with a strong foundation in **biochemistr
 
 ---
 
-## 📄 Selected Completed Projects
+## Selected Completed Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a researcher with a strong foundation in **biochemistr
 
 ---
 
-## 🧪 Publications
+## Publications
 
 You can find a list of my peer-reviewed publications [here](https://scholar.google.com/citations?user=ME8dLiAAAAAJ&hl=en).
 
@@ -46,7 +46,7 @@ Example highlights:
 
 ---
 
-## 📄 My Current PhD Projects
+## My Current PhD Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
@@ -54,14 +54,14 @@ Example highlights:
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 I'm always open to collaboration on:
 - Simulation-guided drug design  
 - ADMET profiling pipelines  
 - Translating biochemical insights into ML models  
 
-📬 **Contact me**:  
+**Contact me**:  
 [Email] | [LinkedIn] | [ResearchGate]  
 _(hezekiahfatoki@gmail.com)_
 _(https://www.linkedin.com/in/hezekiahfatoki/)_
@@ -69,7 +69,7 @@ _(https://www.researchgate.net/profile/Toluwase-Fatoki)_
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 The content and scripts in this repository are intended for **research and educational purposes** only. Please cite appropriately if used in published work.
 
