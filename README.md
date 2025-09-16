@@ -62,7 +62,4 @@ Example highlights:
 
 ---
 
-## Disclaimer
-
-The content and scripts in this repository are intended for **research and educational purposes** only. Please cite appropriately if used in published work.
 
